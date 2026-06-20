@@ -186,6 +186,7 @@ body{
 .skill-card:hover{
     background:linear-gradient(135deg,#8b5cf6,#ec4899);
     color:white;
+    transform:translateY(-5px);
 }
 
 /* Projects */

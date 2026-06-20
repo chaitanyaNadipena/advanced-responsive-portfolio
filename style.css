@@ -129,6 +129,7 @@ body{
 .card,
 .project-card,
 .certificate-card{
+    border-top:5px solid #6366f1;
     background:var(--card);
     border-radius:var(--radius);
     padding:25px;
